@@ -1,0 +1,1 @@
+confirm('kamu yakin?');
